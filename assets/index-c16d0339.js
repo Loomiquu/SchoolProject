@@ -1,0 +1,1 @@
+import{g as n,a as r,i as l,c as m,T as o,t as s}from"./entry-client-29d010ef.js";const c=s("<main><!$><!/><div id=title>The Ultimate Computer Science Quiz Game!</div><a href=/game>PLAY!");function d(){return(()=>{const e=n(c),i=e.firstChild,[t,a]=r(i.nextSibling);return t.nextSibling,l(e,m(o,{children:"QuizL"}),t,a),e})()}export{d as default};

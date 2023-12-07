@@ -3,16 +3,29 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/my-project/assets/_...404_-ca4a366e.js"
+      "href": "/my-project/assets/_...404_-831fb947.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/my-project/assets/_...404_-ca4a366e.js"
+        "href": "/my-project/assets/_...404_-831fb947.js"
       },
       {
         "type": "script",
-        "href": "/my-project/assets/entry-client-7150a6e4.js"
+        "href": "/my-project/assets/entry-client-29d010ef.js"
+      }
+    ]
+  },
+  "/game": {
+    "type": "route",
+    "script": {
+      "type": "script",
+      "href": "/my-project/assets/game-e925d454.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/my-project/assets/game-e925d454.js"
       }
     ]
   },
@@ -20,16 +33,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/my-project/assets/index-0d07fd41.js"
+      "href": "/my-project/assets/index-c16d0339.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/my-project/assets/index-0d07fd41.js"
+        "href": "/my-project/assets/index-c16d0339.js"
       },
       {
         "type": "script",
-        "href": "/my-project/assets/entry-client-7150a6e4.js"
+        "href": "/my-project/assets/entry-client-29d010ef.js"
       }
     ]
   },
@@ -37,12 +50,12 @@
     "type": "entry",
     "script": {
       "type": "script",
-      "href": "/my-project/assets/entry-client-7150a6e4.js"
+      "href": "/my-project/assets/entry-client-29d010ef.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/my-project/assets/entry-client-7150a6e4.js"
+        "href": "/my-project/assets/entry-client-29d010ef.js"
       }
     ]
   },

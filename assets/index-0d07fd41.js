@@ -1,1 +1,0 @@
-import{g as a,a as r,i as l,c as s,T as o,t as m}from"./entry-client-7150a6e4.js";const c=m("<main><!$><!/><a>Website");function g(){return(()=>{const e=a(c),n=e.firstChild,[t,i]=r(n.nextSibling);return t.nextSibling,l(e,s(o,{children:"QuizL"}),t,i),e})()}export{g as default};
