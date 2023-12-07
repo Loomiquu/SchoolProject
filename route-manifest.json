@@ -3,16 +3,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/my-project/assets/_...404_-ae4f5b6a.js"
+      "href": "/my-project/assets/_...404_-7b5111d8.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/my-project/assets/_...404_-ae4f5b6a.js"
+        "href": "/my-project/assets/_...404_-7b5111d8.js"
       },
       {
         "type": "script",
-        "href": "/my-project/assets/entry-client-160533c5.js"
+        "href": "/my-project/assets/entry-client-c38f8e27.js"
       }
     ]
   },
@@ -33,20 +33,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/my-project/assets/index-2d4f0805.js"
+      "href": "/my-project/assets/index-36b289dd.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/my-project/assets/index-2d4f0805.js"
+        "href": "/my-project/assets/index-36b289dd.js"
       },
       {
         "type": "script",
-        "href": "/my-project/assets/entry-client-160533c5.js"
-      },
-      {
-        "type": "style",
-        "href": "/my-project/assets/index-25e29e54.css"
+        "href": "/my-project/assets/entry-client-c38f8e27.js"
       }
     ]
   },
@@ -54,12 +50,12 @@
     "type": "entry",
     "script": {
       "type": "script",
-      "href": "/my-project/assets/entry-client-160533c5.js"
+      "href": "/my-project/assets/entry-client-c38f8e27.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/my-project/assets/entry-client-160533c5.js"
+        "href": "/my-project/assets/entry-client-c38f8e27.js"
       }
     ]
   },

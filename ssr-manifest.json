@@ -34,7 +34,7 @@
   "node_modules/solid-start/server/ServerContext.tsx": [
   ],
   "node_modules/solid-start/server/components/HttpStatusCode.tsx": [
-    "/my-project/assets/_...404_-ae4f5b6a.js"
+    "/my-project/assets/_...404_-7b5111d8.js"
   ],
   "node_modules/solid-start/server/types.tsx": [
   ],
@@ -45,17 +45,12 @@
   "src/root.tsx": [
   ],
   "src/routes/[...404].tsx": [
-    "/my-project/assets/_...404_-ae4f5b6a.js"
+    "/my-project/assets/_...404_-7b5111d8.js"
   ],
   "src/routes/game.tsx": [
     "/my-project/assets/game-e925d454.js"
   ],
-  "src/routes/index.css": [
-    "/my-project/assets/index-2d4f0805.js",
-    "/my-project/assets/index-25e29e54.css"
-  ],
   "src/routes/index.tsx": [
-    "/my-project/assets/index-2d4f0805.js",
-    "/my-project/assets/index-25e29e54.css"
+    "/my-project/assets/index-36b289dd.js"
   ]
 }
