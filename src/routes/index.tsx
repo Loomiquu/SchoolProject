@@ -1,5 +1,5 @@
 import { Title } from "solid-start";
-import "./index.scss"
+import "./index.css"
 
 export default function Home() {
   return (
