@@ -5,12 +5,12 @@
       "src/routes/game.tsx",
       "src/routes/index.tsx"
     ],
-    "file": "assets/entry-client-29d010ef.js",
+    "file": "assets/entry-client-f1f7a9a6.js",
     "isEntry": true,
     "src": "src/entry-client.tsx"
   },
   "src/routes/[...404].tsx": {
-    "file": "assets/_...404_-831fb947.js",
+    "file": "assets/_...404_-72daf74d.js",
     "imports": [
       "src/entry-client.tsx"
     ],
@@ -22,8 +22,15 @@
     "isDynamicEntry": true,
     "src": "src/routes/game.tsx"
   },
+  "src/routes/index.css": {
+    "file": "assets/index-c639c2fb.css",
+    "src": "src/routes/index.css"
+  },
   "src/routes/index.tsx": {
-    "file": "assets/index-c16d0339.js",
+    "css": [
+      "assets/index-c639c2fb.css"
+    ],
+    "file": "assets/index-7e9e045b.js",
     "imports": [
       "src/entry-client.tsx"
     ],
