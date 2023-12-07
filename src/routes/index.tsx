@@ -4,9 +4,12 @@ export default function Home() {
   return (
     <main>
       <Title>QuizL</Title>
-      <a>
-        Website
-      </a>
+        <div id="title">
+          The Ultimate Computer Science Quiz Game!
+        </div>
+        <a href="/game">
+          PLAY!
+        </a>
     </main>
   );
 }
