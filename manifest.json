@@ -1,25 +1,25 @@
 {
-  ".solid/index.html": {
+  "src/entry-client.tsx": {
     "dynamicImports": [
       "src/routes/[...404].tsx",
       "src/routes/index.tsx"
     ],
-    "file": "assets/index-dd0673f1.js",
+    "file": "assets/entry-client-7150a6e4.js",
     "isEntry": true,
-    "src": ".solid/index.html"
+    "src": "src/entry-client.tsx"
   },
   "src/routes/[...404].tsx": {
-    "file": "assets/_...404_-758c9c7a.js",
+    "file": "assets/_...404_-ca4a366e.js",
     "imports": [
-      ".solid/index.html"
+      "src/entry-client.tsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/[...404].tsx"
   },
   "src/routes/index.tsx": {
-    "file": "assets/index-d91aeca0.js",
+    "file": "assets/index-0d07fd41.js",
     "imports": [
-      ".solid/index.html"
+      "src/entry-client.tsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/index.tsx"

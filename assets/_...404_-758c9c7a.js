@@ -1,1 +1,0 @@
-import{u as s,o as u,i as n,c as o,T as a,t as r}from"./index-dd0673f1.js";function l(t){return s(),u(()=>{}),null}const i=r("<main><h1>Page Not Found :(");function c(){return(()=>{const t=i(),e=t.firstChild;return n(t,o(a,{children:"Not Found"}),e),n(t,o(l,{code:404}),e),t})()}export{c as default};

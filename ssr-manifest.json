@@ -1,9 +1,5 @@
 {
-  "\u0000vite/modulepreload-polyfill": [
-  ],
   "\u0000vite/preload-helper": [
-  ],
-  ".solid/index.html": [
   ],
   "node_modules/@solidjs/meta/dist/index.jsx": [
   ],
@@ -38,7 +34,7 @@
   "node_modules/solid-start/server/ServerContext.tsx": [
   ],
   "node_modules/solid-start/server/components/HttpStatusCode.tsx": [
-    "/assets/_...404_-758c9c7a.js"
+    "/my-project/assets/_...404_-ca4a366e.js"
   ],
   "node_modules/solid-start/server/types.tsx": [
   ],
@@ -49,9 +45,9 @@
   "src/root.tsx": [
   ],
   "src/routes/[...404].tsx": [
-    "/assets/_...404_-758c9c7a.js"
+    "/my-project/assets/_...404_-ca4a366e.js"
   ],
   "src/routes/index.tsx": [
-    "/assets/index-d91aeca0.js"
+    "/my-project/assets/index-0d07fd41.js"
   ]
 }
