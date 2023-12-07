@@ -2,9 +2,11 @@ import { Title } from "solid-start";
 
 export default function Home() {
   return (
-    <main>
+    <>
+    <head>
       <link type="text/css" rel="stylesheet" href="./index.css"></link>
-
+    </head>
+    <main>
       <Title>QuizL</Title>
         <div id="title">
           The Ultimate Computer Science Quiz Game!
@@ -13,5 +15,6 @@ export default function Home() {
           PLAY!
         </a>
     </main>
+    </>
   );
 }
