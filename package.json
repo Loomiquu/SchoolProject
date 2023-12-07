@@ -1,20 +1,27 @@
 {
-  "name": "schoolproject",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "SchoolProject",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "dev": "solid-start dev",
+    "build": "solid-start build",
+    "start": "solid-start start"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.17.5",
+    "esbuild": "^0.14.54",
+    "postcss": "^8.4.28",
+    "sass": "^1.69.5",
+    "solid-start-node": "^0.3.10",
+    "typescript": "^4.9.5",
+    "vite": "^4.4.9"
   },
   "dependencies": {
-    "solid-js": "^1.8.5"
+    "@solidjs/meta": "^0.29.1",
+    "@solidjs/router": "^0.8.3",
+    "solid-js": "^1.8.5",
+    "solid-start": "^0.3.10"
   },
-  "devDependencies": {
-    "sass": "^1.69.5",
-    "typescript": "^5.2.2",
-    "vite": "^5.0.0",
-    "vite-plugin-solid": "^2.7.2"
+  "engines": {
+    "node": ">=18"
   }
 }
